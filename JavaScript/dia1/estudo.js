@@ -1,0 +1,5 @@
+alert("Bem vindo, a seguir irei pedir alguns dados :)")
+let name= prompt("Qual o seu nome?")
+let age= prompt("Qual a sua idade?")
+confirm("Seu nome é  " + name + " \n e voce tem " + age +" anos?" )
+alert("Obrigado pela colaboração!")
